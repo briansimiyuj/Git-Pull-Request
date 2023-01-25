@@ -1,0 +1,1 @@
+Git pull is a procees that fetches and merges the changes from a remote repository to a local repository
