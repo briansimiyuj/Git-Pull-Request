@@ -3,3 +3,5 @@ Git pull is a procees that fetches and merges the changes from a remote reposito
 Git Fetch downloads the changes from a remote repository. Refer to https://www.atlassian.com/git/tutorials/syncing/git-fetch
 
 Use `git pull ${remote repository} ${remote branch}` to pull the changes to the local repository
+
+Then you can make the changes to the local repository, and push it back to the remote repository
